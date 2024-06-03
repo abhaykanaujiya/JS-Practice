@@ -10,7 +10,7 @@ for(i=0;i<len;i++){
         current=arr[i]+arr[j];
         if(current>maxSum){
         maxSum=maxSum+current;    
-        // }
+       
         
     }
 
